@@ -10,7 +10,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Flutter Main Layout',
       theme: ThemeData(
-        primarySwatch: Colors.blue,
+        primarySwatch: Colors.red,
       ),
       home: MainLayout(),
     );
@@ -37,7 +37,7 @@ class MainLayout extends StatelessWidget {
               onPressed: () {
                 // Add your onPressed action here
               },
-              child: Text('Press Me'),
+              child: Text('Click Me'),
             ),
           ],
         ),
