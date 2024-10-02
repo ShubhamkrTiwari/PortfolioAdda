@@ -22,7 +22,7 @@ class MainLayout extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Main Layout'),
+        title: Text('Portfolio Adda'),
       ),
       body: Center(
         child: Column(
