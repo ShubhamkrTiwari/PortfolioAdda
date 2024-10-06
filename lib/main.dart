@@ -30,7 +30,7 @@ class MainLayout extends StatelessWidget {
           children: <Widget>[
             Text(
               'Welcome to your Flutter App!',
-              style: TextStyle(fontSize: 20),
+              style: TextStyle(fontSize: 32),
             ),
             SizedBox(height: 20),
             ElevatedButton(
