@@ -29,7 +29,7 @@ class MainLayout extends StatelessWidget {
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             Text(
-              'Welcome to your Flutter App!',
+              'Welcome to Portfolio Adda',
               style: TextStyle(fontSize: 32),
             ),
             SizedBox(height: 20),
