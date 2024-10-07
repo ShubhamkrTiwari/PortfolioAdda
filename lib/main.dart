@@ -22,7 +22,7 @@ class MainLayout extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Portfolio Adda'),
+        title: Text('Portfolio Add'),
         backgroundColor: Colors.cyan,
       ),
 
