@@ -10,7 +10,6 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Portfolio Adda',
       theme: ThemeData(
-        primarySwatch: Colors.red,
       ),
       home: MainLayout(),
     );
