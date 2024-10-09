@@ -22,7 +22,7 @@ class MainLayout extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         title: Text('Portfolio Adda'),
-        backgroundColor: Colors.pink
+        backgroundColor: Colors.blueAccent
         ,
       ),
 
