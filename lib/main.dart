@@ -8,7 +8,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Portfolio Adda',
+      title: 'Portfolio Adda❤',
       theme: ThemeData(
       ),
       home: MainLayout(),
@@ -21,7 +21,7 @@ class MainLayout extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Portfolio Adda'),
+        title: Text('Portfolio Adda❤️'),
         backgroundColor: Colors.blueAccent
         ,
       ),
