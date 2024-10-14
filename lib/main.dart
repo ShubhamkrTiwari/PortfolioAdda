@@ -21,7 +21,7 @@ class MainLayout extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('PortfolioAdda❤️'),
+        title: Text('Portfolio Adda❤️'),
         backgroundColor: Colors.blueAccent
         ,
       ),
